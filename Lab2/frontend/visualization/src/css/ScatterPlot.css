@@ -1,0 +1,22 @@
+#xvar{
+    color: blue;
+}
+
+#yvar{
+    color: red;
+}
+
+.ScatterRow{
+    display: flex;
+    flex-direction: row;
+}
+
+.scatter{
+    width: 25%;
+    border-style: solid;
+}
+
+.legend{
+    border-style: solid;
+    width: 10%;
+}

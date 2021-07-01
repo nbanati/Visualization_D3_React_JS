@@ -1,0 +1,30 @@
+.mainBar{
+    background-color: #fafafa;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+}
+
+.options{
+    flex-grow: 1;
+    padding-top: 30px;
+    position: relative;
+}
+
+ .options:hover{
+    border-bottom: 8px solid black;
+    border-color: black;
+    background-color: #e7e7e7;
+}
+
+.options:hover .dropDownMenu{
+    display: block;
+}
+
+.dropDownMenu{
+    position: absolute;
+    display: none;
+    min-width: 100%;
+    margin-top: 15px;
+}
