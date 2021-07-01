@@ -1,0 +1,22 @@
+.option{
+    padding: 12px;
+    border-color: black;
+    border-width: 10px;
+    background-color: #e7e7e7;
+    width: match-parent;
+    font-size: 12px;
+}
+
+.radioSelection{
+    padding: 12px;
+    border-color: black;
+    border-width: 10px;
+    background-color: #e7e7e7;
+    width: match-parent;
+    font-size: 12px;
+}
+
+.option:hover{
+    background-color: grey;
+    cursor: pointer; 
+}

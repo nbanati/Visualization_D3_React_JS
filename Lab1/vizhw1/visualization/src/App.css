@@ -1,0 +1,14 @@
+.header{
+    background-color: black;
+    height:40px;
+    color: white;
+    width: 100%;
+    margin-top: 0px !important;
+    font-size: x-large;
+}
+
+.home{
+    width: 80%;
+    padding-left: 300px;
+    padding-right: 300px;
+}
